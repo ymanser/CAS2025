@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://ymanser.github.io/CAS2025/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in ymanser/CAS2025 project"
+        ]
+    },
+    "items": []
+}
