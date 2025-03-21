@@ -7,5 +7,87 @@
             "All images loaded in ymanser/CAS2025 project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://ymanser.github.io/CAS2025/images/fmb_fmb-cb-0600a_fmb-cb-0600a_004/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "fmb_fmb-cb-0600a_fmb-cb-0600a_004"
+                ]
+            },
+            "height": 4992,
+            "width": 3328,
+            "items": [
+                {
+                    "id": "https://ymanser.github.io/CAS2025/images/fmb_fmb-cb-0600a_fmb-cb-0600a_004/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://ymanser.github.io/CAS2025/images/fmb_fmb-cb-0600a_fmb-cb-0600a_004/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://ymanser.github.io/CAS2025/images/fmb_fmb-cb-0600a_fmb-cb-0600a_004/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 104,
+                                                "height": 156
+                                            },
+                                            {
+                                                "width": 208,
+                                                "height": 312
+                                            },
+                                            {
+                                                "width": 416,
+                                                "height": 624
+                                            },
+                                            {
+                                                "width": 832,
+                                                "height": 1248
+                                            },
+                                            {
+                                                "width": 1664,
+                                                "height": 2496
+                                            },
+                                            {
+                                                "width": 3328,
+                                                "height": 4992
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3328,
+                                        "@id": "https://ymanser.github.io/CAS2025/images/fmb_fmb-cb-0600a_fmb-cb-0600a_004",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4992,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://ymanser.github.io/CAS2025/images/fmb_fmb-cb-0600a_fmb-cb-0600a_004/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
